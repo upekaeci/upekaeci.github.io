@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://upekaeci.github.io/Lse/sitemap_index.txt
+Sitemap: https://upekaeci.github.io/UIf/sitemap_index.txt
+Sitemap: https://upekaeci.github.io/tgQ/sitemap_index.txt
+Sitemap: https://upekaeci.github.io/vku/sitemap_index.txt
